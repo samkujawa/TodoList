@@ -1,8 +1,8 @@
 📝 CRUD Todo List v1
-Welcome to CRUD Todo List v1! This project is a simple yet elegant todo list application built with HTML, CSS, and JavaScript. It allows users to create, read, update, and delete (CRUD) tasks efficiently. Perfect for managing your daily tasks and to-dos, this project is an excellent example of a modern web application with clean code, responsive design, and user-friendly features.
+This project is a simple yet elegant todo list application built with HTML, CSS, and JavaScript. It allows users to create, read, update, and delete (CRUD) tasks efficiently. Perfect for managing your daily tasks and to-dos, this project is an excellent example of a modern web application with clean code, responsive design, and user-friendly features.
 
 🚀 Live hosting
-Hosted live on: 
+Hosted live on: https://friendly-dolphin-b238be.netlify.app/
 
 🛠️ Features
 Create Tasks: Add new tasks with a single click.
