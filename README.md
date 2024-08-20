@@ -2,6 +2,8 @@
 
 This project is a simple yet and elegant todo list application built with HTML, CSS, and JavaScript. It allows users to create, read, update, and delete (CRUD) tasks efficiently. Perfect for managing your daily tasks and to-dos, this project is an excellent example of a modern web application with clean code, responsive design, and user-friendly features.
 
+Hardest part of this project for me: Extending my knowledge of JavaScript, which turned out to be a language I feel like I enjoy more with each use. 
+
 🚀 Live hosting
 
 Hosted live on: https://friendly-dolphin-b238be.netlify.app/
